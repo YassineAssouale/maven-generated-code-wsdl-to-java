@@ -1,0 +1,1 @@
+# maven-generated-code-wsdl-to-java
